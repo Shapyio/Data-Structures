@@ -3,11 +3,11 @@ A list of various common data structures and algorithms to be implemented and pr
 
 ## Data Structures
 ### Basic Structures
-- [] Node
+- [x] Node
 
 ### Arrays, Lists, and Vectors
 - [] Array
-- [] Singly Linked List
+- [x] Singly Linked List
 - [] Doubly Linked List
 - [] Vector
 
